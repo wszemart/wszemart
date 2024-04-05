@@ -4,11 +4,7 @@ Hey there! Welcome to my GitHub profile. I'm Marta, a CNC Programmer with a pass
 
 - 💼 **Current Job:** CNC Programmer
 - 📖 **Currently Learning:** I'm currently collaborating with a mentor and working on developing my own applications in Python and Django.
-- ✨ **Interests:** 
-  - ⌨️ Programming
-  - 📚 Reading
-  - 🏂 Snowboarding
-  - 🚶‍♀️ Hiking
+- ✨ **Interests:** ⌨️ Programming 📚 Reading 🏂 Snowboarding 🚶‍♀️ Hiking
 
 **Languages and Tools**
 
